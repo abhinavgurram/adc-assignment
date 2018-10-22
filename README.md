@@ -101,7 +101,7 @@ These choices ensured I touched on both the mathematical and computing portions 
 - [LeetCode Maze](https://leetcode.com/articles/the-maze/)
 - [Shortest Paths](https://www.cs.princeton.edu/~rs/AlgsDS07/15ShortestPaths.pdf)
 - [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals)
-- [Project Nayuki]
+- [Project Nayuki](https://www.nayuki.io/)
 
 ## Time spent
 - I approximately spent 7 hours on this exercise. Although I was able to code the solutions up quite quickly, I spent some time on setting up JUnit and Git. 
